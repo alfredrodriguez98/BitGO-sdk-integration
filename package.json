@@ -1,0 +1,9 @@
+{
+  "name": "your-project",
+  "version": "1.0.0",
+
+  "dependencies": {
+    "bitgo": "^19.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
